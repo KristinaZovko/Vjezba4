@@ -1,4 +1,4 @@
-# Vjezba4
+# Vjezba6
 Zaštitno kodiranje - Javni ključ
 Zadatak:
 Za zadane p i q, potrebno je odreditit par ključeva e i d. 
